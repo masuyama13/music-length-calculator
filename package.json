@@ -1,10 +1,10 @@
 {
   "name": "music-length-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Calculate the length of the music",
   "main": "index.js",
   "bin": {
-    "music-length-calculator": "./index.js"
+    "music-length-calculator": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
