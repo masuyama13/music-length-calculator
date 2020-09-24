@@ -11,7 +11,7 @@ $ npm install music-length-calculator
 ## Usage
 
 ``` sh
-$ music-length-calculator
+$ ./node_modules/music-length-calculator
 ```
 
 3 steps for calculate.
